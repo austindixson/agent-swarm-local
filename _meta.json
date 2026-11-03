@@ -6,7 +6,7 @@
   "description": "Hybrid LLM routing: local Ollama models via WebLLM/WebGPU (persistent, zero-cost) for orchestrator and simple tasks, OpenRouter cloud models for complex tasks. Includes local model health checking and quality verification. Supports parallel multi-task splitting. Up to 82% cost savings by routing FAST, RESEARCH, and CODE tasks locally.",
   "author": "Austin",
   "license": "MIT",
-  "homepage": "https://github.com/RuneweaverStudios/agent-swarm-local",
+  "homepage": "https://github.com/austindixson/agent-swarm-local",
   "tags": [
     "routing",
     "orchestration",
